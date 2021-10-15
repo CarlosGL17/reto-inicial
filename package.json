@@ -2,11 +2,11 @@
   "name": "reto-inicial",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build && next export",
-    "start": "next start -P $PORT"
+    "dev": "next",
+    "build": "NODE_ENV=production && next build",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
