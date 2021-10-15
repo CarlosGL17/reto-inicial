@@ -1,0 +1,58 @@
+$background-color: #FDFDFD;
+
+$offcanvas-bar-background:                      $background-color;
+$offcanvas-bar-color-mode:                      dark;
+
+html {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 16px;
+    font-family: 'BR Firma';
+}
+  
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+    scroll-behavior:smooth;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: optimizeSpeed;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: $background-color;
+}
+
+::-webkit-scrollbar{
+  background: none;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #212E53;
+}
+
+::-webkit-scrollbar-track {
+  background: none;
+}
+
+@import "uikit/src/scss/variables-theme.scss";
+@import "uikit/src/scss/mixins-theme.scss";
+
+@import './fonts.scss';
+
+@import "uikit/src/scss/uikit-theme.scss";
