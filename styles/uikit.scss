@@ -33,6 +33,8 @@ body{
     background-color: $background-color;
 }
 
+@import "./mixins.scss";
+
 ::-webkit-scrollbar{
   background: none;
 }
@@ -43,11 +45,16 @@ body{
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #212E53;
+  background: #283035;
 }
 
 ::-webkit-scrollbar-track {
   background: none;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #283035;
+  @include border-card;
 }
 
 @import "uikit/src/scss/variables-theme.scss";
