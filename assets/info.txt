@@ -1,0 +1,8 @@
+Nombre en clave: DENGUE
+Frase: Todos contra el Dengue
+Motivación
+¡Hola! Mi nombre es Carlos Humberto, estoy en primer semestre de Ing. en Sistemas Computacionales en el ITESZ de la ciudad de Zamora, Michoacán.
+Frecuentemente en mi ciudad de origen en temporadas de lluvias surgen brotes de Dengue bastante alarmantes, que ponen en riesgo a la población en general... Por ello aprovechando todo el avance tecnológico del que nos provee la nube de Azure e inteligencia artificial, presento mi proyecto para prevenir futuros brotes y focos de contagio.
+
+Propuesta
+asdasd

@@ -2,13 +2,31 @@
   "..\\node_modules\\next\\dist\\client\\next-dev.js -> ./dev/noop": {
     "id": "./node_modules/next/dist/client/dev/noop.js",
     "files": [
-      "static/chunks/components_Uikit_tsx-node_modules_next_dist_client_dev_noop_js.js"
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Motivacion_tsx-components_Uikit_tsx-componen-14c329.js"
     ]
   },
   "_app.tsx -> ../components/Uikit": {
     "id": "./components/Uikit.tsx",
     "files": [
-      "static/chunks/components_Uikit_tsx-node_modules_next_dist_client_dev_noop_js.js"
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Motivacion_tsx-components_Uikit_tsx-componen-14c329.js"
+    ]
+  },
+  "index.tsx -> ../components/Navbar/Navbar": {
+    "id": "./components/Navbar/Navbar.tsx",
+    "files": [
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Motivacion_tsx-components_Uikit_tsx-componen-14c329.js"
+    ]
+  },
+  "index.tsx -> ../components/Sections/Motivacion": {
+    "id": "./components/Sections/Motivacion.tsx",
+    "files": [
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Motivacion_tsx-components_Uikit_tsx-componen-14c329.js"
+    ]
+  },
+  "index.tsx -> ../components/Wallpaper": {
+    "id": "./components/Wallpaper.tsx",
+    "files": [
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Motivacion_tsx-components_Uikit_tsx-componen-14c329.js"
     ]
   }
 }
