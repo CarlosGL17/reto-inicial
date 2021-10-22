@@ -5,7 +5,7 @@ import zamora from '../../assets/img/arton.jpg'
 const Motivacion = () => 
 <div>
     <div className='uk-section uk-section-default'>
-        <div className='uk-container uk-container-expand uk-margin-top'>
+        <div className='uk-container uk-container-expand uk-margin-top' id="Motivacion">
             <div 
                 className='image-division'
                 style={{backgroundImage: `url(${zamora})`}}
@@ -23,12 +23,12 @@ const Motivacion = () =>
                             <span className='hr'>tiempo</span>
                         </h2>
                     </div>
-                    <div className='uk-width-1-2@s uk-text-right'>
+                    <div className='uk-width-1-2@s uk-text-justify'>
                         <div className=''>
                             <h3>
-                                ¡Hola! Mi nombre es Carlos Humberto, estoy en primer semestre de Ing. en Sistemas Computacionales en el ITESZ de la ciudad de Zamora, Michoacán. 
-                                <br/>Frecuentemente en mi ciudad de origen en temporadas de lluvias surgen brotes de Dengue bastante alarmantes, que ponen en riesgo a la población en 
-                                general... Por ello aprovechando todo el avance tecnológico del que nos brinda la nube de Azure e inteligencia artificial, presento mi proyecto para prevenir 
+                                ¡Hola! Mi nombre es <span className='uk-text-bold'>Carlos Humberto</span>, estoy en primer semestre de Ing. en Sistemas Computacionales en el ITESZ de la ciudad de <span className='uk-text-bold'>Zamora, Michoacán. </span>
+                                <br/>Frecuentemente en mi ciudad de origen en temporadas de lluvias surgen brotes de <span className='uk-text-bold'>Dengue</span> bastante alarmantes, que ponen en riesgo a la población en 
+                                general... Por ello aprovechando todas las ventajas del que nos brinda la <span className='uk-text-bold'>nube de Azure e inteligencia artificial</span> presento mi proyecto para prevenir 
                                 futuros brotes y focos de contagio.
                             </h3>
                         </div>

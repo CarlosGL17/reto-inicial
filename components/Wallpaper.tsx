@@ -10,7 +10,7 @@ const Background = () =>
         </LazyBackground>
         <div className='subfront uk-flex uk-flex-center uk-flex-middle'>
             <LazyBackground classNames="imageSub uk-flex uk-flex-center uk-flex-middle uk-text-center loader" urlImage={Portada2} 
-            childComp={<h2 style={{position: 'absolute'}} className='uk-heading-small'>Aplicación de la Nube <br/>contra el Dengue</h2>}
+            childComp={<h2 style={{position: 'absolute'}} className='uk-heading-small'>Aplicación de la nube <br/>para combatir el Dengue</h2>}
             >
             </LazyBackground>
         </div>

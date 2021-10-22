@@ -161,7 +161,7 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 
 
 
-const UIKit = next_dynamic__WEBPACK_IMPORTED_MODULE_2___default()(() => __webpack_require__.e(/*! import() */ "components_Navbar_Navbar_tsx-components_Sections_Motivacion_tsx-components_Uikit_tsx-componen-23ceeb").then(__webpack_require__.bind(__webpack_require__, /*! ../components/Uikit */ "./components/Uikit.tsx")), {
+const UIKit = next_dynamic__WEBPACK_IMPORTED_MODULE_2___default()(() => __webpack_require__.e(/*! import() */ "components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-99552f").then(__webpack_require__.bind(__webpack_require__, /*! ../components/Uikit */ "./components/Uikit.tsx")), {
   loadableGenerated: {
     webpack: () => [/*require.resolve*/(/*! ../components/Uikit */ "./components/Uikit.tsx")],
     modules: ["_app.tsx -> " + '../components/Uikit']

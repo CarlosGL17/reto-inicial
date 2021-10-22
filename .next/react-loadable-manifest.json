@@ -1,32 +1,80 @@
 {
+  "..\\components\\Sections\\Objetivos.tsx -> ../LazyBackground/LazyBackground": {
+    "id": "./components/LazyBackground/LazyBackground.tsx",
+    "files": [
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
+    ]
+  },
+  "..\\components\\Sections\\Objetivos.tsx -> ../Sections/Aplicacion": {
+    "id": "./components/Sections/Aplicacion.tsx",
+    "files": [
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
+    ]
+  },
+  "..\\components\\Sections\\Objetivos.tsx -> ../Sections/Estrategias": {
+    "id": "./components/Sections/Estrategias.tsx",
+    "files": [
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
+    ]
+  },
+  "..\\components\\Sections\\Propuesta.tsx -> ../LazyBackground/LazyBackground": {
+    "id": "./components/LazyBackground/LazyBackground.tsx",
+    "files": [
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
+    ]
+  },
   "..\\node_modules\\next\\dist\\client\\next-dev.js -> ./dev/noop": {
     "id": "./node_modules/next/dist/client/dev/noop.js",
     "files": [
-      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Motivacion_tsx-components_Uikit_tsx-componen-14c329.js"
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
     ]
   },
   "_app.tsx -> ../components/Uikit": {
     "id": "./components/Uikit.tsx",
     "files": [
-      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Motivacion_tsx-components_Uikit_tsx-componen-14c329.js"
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
     ]
   },
   "index.tsx -> ../components/Navbar/Navbar": {
     "id": "./components/Navbar/Navbar.tsx",
     "files": [
-      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Motivacion_tsx-components_Uikit_tsx-componen-14c329.js"
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
+    ]
+  },
+  "index.tsx -> ../components/Sections/Contacto": {
+    "id": "./components/Sections/Contacto.tsx",
+    "files": [
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
+    ]
+  },
+  "index.tsx -> ../components/Sections/Desventajas": {
+    "id": "./components/Sections/Desventajas.tsx",
+    "files": [
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
     ]
   },
   "index.tsx -> ../components/Sections/Motivacion": {
     "id": "./components/Sections/Motivacion.tsx",
     "files": [
-      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Motivacion_tsx-components_Uikit_tsx-componen-14c329.js"
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
+    ]
+  },
+  "index.tsx -> ../components/Sections/Objetivos": {
+    "id": "./components/Sections/Objetivos.tsx",
+    "files": [
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
+    ]
+  },
+  "index.tsx -> ../components/Sections/Propuesta": {
+    "id": "./components/Sections/Propuesta.tsx",
+    "files": [
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
     ]
   },
   "index.tsx -> ../components/Wallpaper": {
     "id": "./components/Wallpaper.tsx",
     "files": [
-      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Motivacion_tsx-components_Uikit_tsx-componen-14c329.js"
+      "static/chunks/components_Navbar_Navbar_tsx-components_Sections_Contacto_tsx-components_Sections_Desventajas-165dd4.js"
     ]
   }
 }
