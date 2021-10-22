@@ -1,7 +1,7 @@
 import dynamic from 'next/dynamic';
 import React from 'react';
 import { LazyLoadComponent } from 'react-lazy-load-image-component';
-const LazyBackground = dynamic(() => import('../LazyBackground/LazyBackground'), {ssr: false});
+const LazyBackground = dynamic(() => import('../LazyBackground/LazyBackground'));
 
 import reducir from '../../assets/img/reducir.jpg'
 import prevenir from '../../assets/img/prevenir.jpeg'
