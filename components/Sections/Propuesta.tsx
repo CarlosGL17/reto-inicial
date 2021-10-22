@@ -21,7 +21,7 @@ const Motivacion = () =>
                             childComp={
                                 <div className='flex light'>
                                     <div className='contain'>
-                                        <p>Mosco del Dengue (Aedes aegypti)</p>
+                                        <p>Mosco del Dengue (Aedes Aegypti)</p>
                                     </div>
                                 </div>
                             }
