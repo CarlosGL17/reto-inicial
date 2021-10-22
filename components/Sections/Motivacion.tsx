@@ -1,6 +1,6 @@
 import { LazyLoadImage } from 'react-lazy-load-image-component'; 
 
-import zamora from '../../assets/img/arton.jpg'
+import zamora from '../../assets/img/arton.webp'
 
 const Motivacion = () => 
 <div>

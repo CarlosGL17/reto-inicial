@@ -2,7 +2,7 @@ import { LazyLoadImage, LazyLoadComponent} from 'react-lazy-load-image-component
 
 import AppService from '../../assets/img/app-service-web.svg';
 import BingMaps from '../../assets/img/Bing_Maps-Logo.svg';
-import Ai from '../../assets/img/inteligencia.png';
+import Ai from '../../assets/img/inteligencia.webp';
 
 const Estrategias = () =>
 <div>

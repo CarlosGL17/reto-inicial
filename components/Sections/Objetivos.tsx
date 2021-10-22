@@ -3,9 +3,9 @@ import React from 'react';
 import { LazyLoadComponent } from 'react-lazy-load-image-component';
 const LazyBackground = dynamic(() => import('../LazyBackground/LazyBackground'));
 
-import reducir from '../../assets/img/reducir.jpg'
-import prevenir from '../../assets/img/prevenir.jpeg'
-import salvar from '../../assets/img/salvare.jpg';
+import reducir from '../../assets/img/reducir.webp'
+import prevenir from '../../assets/img/prevenir.webp'
+import salvar from '../../assets/img/salvare.webp';
 
 const Estrategias = dynamic(() => import('../Sections/Estrategias'));
 const Aplicacion = dynamic(() => import('../Sections/Aplicacion'));

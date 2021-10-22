@@ -1,15 +1,15 @@
 import { LazyLoadImage } from 'react-lazy-load-image-component'; 
 
-import innovaccion from '../../assets/img/innovaccion.jpg'
-import azure from '../../assets/img/azure.png';
-import microsoft from '../../assets/img/microsoft.jpg'
+import innovaccion from '../../assets/img/innovaccion.webp';
+import azure from '../../assets/img/azure.webp';
+import microsoft from '../../assets/img/microsoft.webp'
 
 const Contacto = () =>
 <div className='uk-container uk-container-large uk-margin-large-top uk-margin-bottom contacto' id='Contacto'>
     <div className='uk-text-center' data-uk-grid>
         <div className='uk-width-1-1'>
             <h2 className='message uk-heading uk-heading-large'>
-                <span className='hr'>Espero te<br/>haya gustado!</span><br/>
+                <span className='hr'>¡Espero te<br/>haya gustado!</span><br/>
             </h2>
         </div>
         <div className='contact uk-width-1-1 uk-child-width-1-1 uk-flex uk-flex-center uk-flex-wrap'>

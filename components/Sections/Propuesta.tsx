@@ -1,8 +1,7 @@
 import dynamic from 'next/dynamic';
-import { LazyLoadImage } from 'react-lazy-load-image-component'; 
 const LazyBackground = dynamic(() => import('../LazyBackground/LazyBackground'));
 
-import mosquito from '../../assets/img/mosquito.jpg'
+import mosquito from '../../assets/img/mosquito.webp'
 
 const Motivacion = () => 
 <div>

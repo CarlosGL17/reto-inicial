@@ -1,8 +1,8 @@
 import { LazyLoadImage, LazyLoadComponent} from 'react-lazy-load-image-component';
 
-import costo from '../../assets/img/istock-1129146997.jpg';
-import fake from '../../assets/img/fake.png'
-import dudas from '../../assets/img/portabilidad-nomina.jpg'
+import costo from '../../assets/img/istock-1129146997.webp';
+import fake from '../../assets/img/fake.webp'
+import dudas from '../../assets/img/portabilidad-nomina.webp'
 
 const Desventajas = () =>
 <div>
@@ -37,7 +37,7 @@ const Desventajas = () =>
                                 <h3 className="uk-card-title uk-margin-remove-bottom">Mal uso de la API</h3>
                                 <h4 className="uk-margin-remove-bottom uk-margin-remove-top">Si la sociedad al reportar focos de infección le da un uso negativo a la API pueden producir 
                                 información errónea al procesar los datos.
-                                <br/>Por ello lo ideal es que un trabajador de la salud sea el que reporte focos.</h4>
+                                <br/>Por ello lo ideal es que un trabajador de la salud sea el que reporte focos de infección.</h4>
                             </div>
                         </div>
                     </div>

@@ -1,6 +1,6 @@
 import LazyBackground from './LazyBackground/LazyBackground';
-import Portada2 from '../assets/img/pexels-erik-karits-9950359.jpg';
-import Portada from '../assets/img/pexels-pixabay-86722.jpg'
+import Portada2 from '../assets/img/pexels-erik-karits-9950359.webp';
+import Portada from '../assets/img/pexels-pixabay-86722.webp'
 
 const Background = () => 
     <div className='uk-section uk-flex-center uk-flex uk-flex-wrap sectionPresent' data-uk-scrollspy="cls: uk-animation-slide-top; target: .uk-heading-small, .uk-heading-xlarge; delay: 300; repeat: true">
